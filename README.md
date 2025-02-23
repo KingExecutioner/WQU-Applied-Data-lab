@@ -9,7 +9,8 @@ Check my badge: https://www.credly.com/badges/4480df1c-d561-4ef8-9852-79b5748e0c
 Throughout the program, I had the opportunity to work on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. Let me provide a brief explanation of each project:
 
 
-1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
+1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.![{42CE9A24-B5A8-4C06-B8CC-E64BEB8A0094}](https://github.com/user-attachments/assets/9eb0ca47-b824-419f-b436-5e414bd7d959)
+
 
 
 2- 𝗔𝗣𝗔𝗥𝗧𝗠𝗘𝗡𝗧 𝗦𝗔𝗟𝗘𝗦 𝗜𝗡 𝗕𝗨𝗘𝗡𝗢𝗦 𝗔𝗜𝗥𝗘𝗦: Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
